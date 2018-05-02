@@ -24,3 +24,4 @@ exports.handler = function (event, context, callback) {
 		}
 	});
 }
+//Type headers in Toolbox when try GET url
