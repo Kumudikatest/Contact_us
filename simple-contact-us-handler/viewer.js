@@ -24,4 +24,4 @@ exports.handler = function (event, context, callback) {
 		}
 	});
 }
-//Type headers in Toolbox when try GET url
+//Type request header (eg:- accept:blah blah) in Toolbox when try GET url
